@@ -1,0 +1,24 @@
+
+.activity_table {
+  width: 100%;
+  margin-top: 3rem;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.activity_table table  {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+.activity_table table thead{
+  height: 50px;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.activity_table tr, td {
+  border: 1px solid lightblue;
+  height: 50px;
+}
